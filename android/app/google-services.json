@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119031935681",
+    "project_id": "cash-flow-a27ec",
+    "storage_bucket": "cash-flow-a27ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119031935681:android:ceb8abbc4c9f399eb99a40",
+        "android_client_info": {
+          "package_name": "com.example.flutter_cash_flow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119031935681-0nagci37pamdjn6qf0ii5kououople4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHBEe8hUQ_eBPXtCiq5P3K3sgy8uFWbyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119031935681-0nagci37pamdjn6qf0ii5kououople4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
